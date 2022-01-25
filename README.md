@@ -1,4 +1,4 @@
-### 🖥 Opa, beleza? Prazer, Arthur. 
+### ⚡ Opa, beleza? Prazer, Arthur. 
 
 <div align="center">
   <a href="https://github.com/xArthur29">
